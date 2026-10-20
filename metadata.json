@@ -1,0 +1,6 @@
+{
+  "name": "CatchUp — Missed Class Recovery Planner",
+  "description": "Interactive academic recovery planner for college students to track absences, manage peer notes, schedule catch-up sprints, calculate attendance risk, and draft professor emails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

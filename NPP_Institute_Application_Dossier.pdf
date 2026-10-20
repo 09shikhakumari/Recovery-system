@@ -1,0 +1,704 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 9167
+>>
+stream
+0.5670000000000001 w
+0 G
+0.06 0.09 0.16 rg
+56.6929133858267775 790.8663779527558972 481.8897637795275841 -68.031496062992133 re
+f
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+1. g
+73.7007874015748143 762.5199212598424765 Td
+(NPP INSTITUTE) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.78 0.824 0.996 rg
+73.7007874015748143 742.6774015748030706 Td
+(Student Missed Class Recovery & Academic Attendance Planner) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.886 0.91 0.941 rg
+411.023622047244146 742.6774015748030706 Td
+(Generated: Fall 2026 Term) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 700.15771653543311 Td
+(1. EXECUTIVE SUMMARY & OBJECTIVES) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 683.1498425196850803 Td
+(The NPP Institute Missed Class Recovery Planner is a collegiate academic application designed to eliminate student) Tj
+T* (course debt resulting from unavoidable lecture or laboratory absences. It converts sudden missed class periods into) Tj
+T* (structured, time-blocked 72-hour recovery dossiers, coordinates peer note sharing, automates professional) Tj
+T* (communication with instructors, and tracks mandatory institutional attendance thresholds to prevent exam debarment.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 620.7876377952754865 Td
+(2. CORE APPLICATION FEATURES) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 603.7797637795274568 Td
+(A. Automated Absence Triage & Recovery Dossiers) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 591.0238582677164914 Td
+(Generates customized milestone checklists depending on class type \(Lecture, Lab practical, Seminar, or Recitation\).) Tj
+T* (Automatically factors in slide decks, Panopto recording replays, and problem sets.) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 559.8427559055116944 Td
+(B. Mandatory Attendance Risk & Debarment Calculator) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 547.086850393700729 Td
+(Tracks institutional attendance compliance \(75% and 80% thresholds\). Features an interactive "What-If" trajectory simulator) Tj
+T* (calculating the exact number of consecutive classes a student must attend to restore compliant standing.) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 515.9057480314959321 Td
+(C. Study Sprint Focus Mode \(Pomodoro Timer\)) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 503.1498425196849666 Td
+(Integrated 15m, 25m, and 45m deep study timers linked directly to recovery tasks. Includes soft Web Audio completion chimes) Tj
+T* (and auto-saving scratchpads for instructor office hour doubts.) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 471.9687401574802834 Td
+(D. Professor & TA Communication Suite) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 459.2128346456692611 Td
+(One-click email generator supporting 5 academic scenarios: Medical clinic notice, quiz/lab makeup inquiry, conference conflict,) Tj
+T* (personal emergency, and office hours review. Offers Formal and Concise tone presets.) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 428.0317322834645211 Td
+(E. Peer Notes Network & Reciprocal Academic Karma) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 415.2758267716534988 Td
+(Directory of trusted classmates for note sharing, status tracking \(requested, received, reviewed\), and one-click SMS request) Tj
+T* (generation.) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 384.0947244094487587 Td
+(F. University Single Sign-On \(SSO\) & Demo Personas) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 371.3388188976377364 Td
+(Secure authentication via Google Workspace for Education, .edu credentials, and instant 1-click student personas \(Alex Mercer -) Tj
+T* (CS, Jordan Taylor - Pre-Med, Taylor Reed - Economics\).) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 331.6537795275589815 Td
+(3. ENROLLED COURSE AUDIT & ATTENDANCE METRICS) Tj
+ET
+0.89 0.91 0.94 rg
+56.6929133858267775 314.6459055118109518 481.8897637795275841 -19.8425196850393704 re
+f
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+62.3622047244094517 300.4726771653542983 Td
+(Course Code & Title) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+226.7716535433071101 300.4726771653542983 Td
+(Schedule) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+340.157480314960651 300.4726771653542983 Td
+(Attended/Held) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+419.5275590551181608 300.4726771653542983 Td
+(Rate) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+476.2204724409449454 300.4726771653542983 Td
+(Status) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+62.3622047244094517 280.6301574803148924 Td
+(CS 201: Data Structures) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+226.7716535433071101 280.6301574803148924 Td
+(MWF 10:00-11:15 AM) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+340.157480314960651 280.6301574803148924 Td
+(14 / 16 held) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+419.5275590551181608 280.6301574803148924 Td
+(87.5%) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.063 0.725 0.506 rg
+476.2204724409449454 280.6301574803148924 Td
+(Safe) Tj
+ET
+0.89 0.91 0.94 RG
+56.6929133858267775 274.9608661417321969 m
+538.5826771653544256 274.9608661417321969 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+62.3622047244094517 260.7876377952754865 Td
+(BIO 110: Cell Biology & Gen) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+226.7716535433071101 260.7876377952754865 Td
+(TTh 01:30-03:00 PM) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+340.157480314960651 260.7876377952754865 Td
+(9 / 12 held) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+419.5275590551181608 260.7876377952754865 Td
+(75.0%) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.863 0.149 0.149 rg
+476.2204724409449454 260.7876377952754865 Td
+(Danger \(<80%\)) Tj
+ET
+0.89 0.91 0.94 RG
+56.6929133858267775 255.1183464566928194 m
+538.5826771653544256 255.1183464566928194 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+62.3622047244094517 240.9451181102361943 Td
+(MATH 215: Linear Algebra) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+226.7716535433071101 240.9451181102361943 Td
+(TTh 10:00-11:30 AM) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+340.157480314960651 240.9451181102361943 Td
+(10 / 11 held) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+419.5275590551181608 240.9451181102361943 Td
+(90.9%) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.063 0.725 0.506 rg
+476.2204724409449454 240.9451181102361943 Td
+(Safe) Tj
+ET
+0.89 0.91 0.94 RG
+56.6929133858267775 235.2758267716534419 m
+538.5826771653544256 235.2758267716534419 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+62.3622047244094517 221.1025984251967884 Td
+(ECON 102: Macroeconomics) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+226.7716535433071101 221.1025984251967884 Td
+(MWF 02:00-03:15 PM) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+340.157480314960651 221.1025984251967884 Td
+(15 / 15 held) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.059 0.09 0.165 rg
+419.5275590551181608 221.1025984251967884 Td
+(100.0%) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.063 0.725 0.506 rg
+476.2204724409449454 221.1025984251967884 Td
+(Safe) Tj
+ET
+0.89 0.91 0.94 RG
+56.6929133858267775 215.4333070866140929 m
+538.5826771653544256 215.4333070866140929 l
+S
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 201.2600787401573825 Td
+(4. STANDARD 72-HOUR RECOVERY PROTOCOL) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 184.2522047244093528 Td
+(0 – 12 Hours Post-Absence) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 172.9136220472439618 Td
+(Transmit polite absence notice to instructor or TA. Connect with registered peer note partner to request lecture annotations.) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 155.0553543307084965 Td
+(12 – 36 Hours Post-Absence) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 143.7167716535432191 Td
+(Stream recorded lecture at 1.25x or review slide deck. Cross-examine peer notes and solve 2 foundational practice problems.) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 125.8585039370077538 Td
+(36 – 72 Hours \(Prior to Next Class\)) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 114.5199212598423628 Td
+(Complete homework or lab analysis. Test key concepts with the self-check mastery tool. Formulate 2 questions for upcoming office) Tj
+T* (hours.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 1782
+>>
+stream
+0.5670000000000001 w
+0.89 0.91 0.94 RG
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 813.5435433070865656 Td
+(NPP Institute — Student Recovery & Attendance Dossier) Tj
+ET
+56.6929133858267775 807.8742519685039269 m
+538.5826771653544256 807.8742519685039269 l
+S
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.31 0.275 0.898 rg
+56.6929133858267775 785.1970866141732586 Td
+(5. ARCHITECTURE, SECURITY & FERPA COMPLIANCE) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 768.1892125984252289 Td
+(• Client Framework: React 19 SPA running on Vite with TypeScript and Tailwind CSS.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 754.0159842519684616 Td
+(• Security & Auth: Firebase Authentication \(Google OAuth + Email/Password\) with FERPA-aligned access policies.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 739.8427559055118081 Td
+(• Data Persistence: Google Cloud Firestore with Attribute-Based Access Control \(ABAC\) rules isolating student records.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 725.6695275590550409 Td
+(• Offline Resilience: Hybrid localStorage synchronization ensuring offline task progress retention.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 711.4962992125983874 Td
+(• Audio & Interactivity: Native Web Audio API synthesis for distraction-free sprint cues.) Tj
+ET
+0.89 0.91 0.94 RG
+56.6929133858267775 674.6459055118109518 m
+538.5826771653544256 674.6459055118109518 l
+S
+BT
+/F1 7.5 Tf
+8.625 TL
+0.392 0.455 0.545 rg
+56.6929133858267775 660.4726771653542983 Td
+(Official Technical & Academic Dossier · NPP Institute Academic Planning Division · Confidential) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20261020163412-00'00')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000011342 00000 n 
+0000013167 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000009371 00000 n 
+0000009508 00000 n 
+0000011405 00000 n 
+0000011530 00000 n 
+0000011660 00000 n 
+0000011793 00000 n 
+0000011931 00000 n 
+0000012055 00000 n 
+0000012184 00000 n 
+0000012316 00000 n 
+0000012452 00000 n 
+0000012580 00000 n 
+0000012707 00000 n 
+0000012836 00000 n 
+0000012969 00000 n 
+0000013071 00000 n 
+0000013417 00000 n 
+0000013503 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <195DBC72B91C28671D30A67F5B65FA7C> <195DBC72B91C28671D30A67F5B65FA7C> ]
+>>
+startxref
+13607
+%%EOF

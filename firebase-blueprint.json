@@ -1,0 +1,67 @@
+{
+  "entities": {
+    "UserProfile": {
+      "title": "UserProfile",
+      "description": "Student user profile information",
+      "type": "object",
+      "properties": {
+        "email": { "type": "string", "format": "email" },
+        "displayName": { "type": "string" },
+        "studentId": { "type": "string" },
+        "major": { "type": "string" },
+        "university": { "type": "string" },
+        "avatarUrl": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["email", "displayName"]
+    },
+    "Course": {
+      "title": "Course",
+      "description": "Academic course enrolled by student",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "code": { "type": "string" },
+        "name": { "type": "string" },
+        "professor": { "type": "string" },
+        "professorEmail": { "type": "string" },
+        "officeHours": { "type": "string" },
+        "location": { "type": "string" },
+        "schedule": { "type": "string" },
+        "timeSlot": { "type": "string" },
+        "colorTheme": { "type": "string" }
+      },
+      "required": ["userId", "code", "name"]
+    },
+    "MissedClassPlan": {
+      "title": "MissedClassPlan",
+      "description": "Recovery dossier and checklist for a missed lecture or lab",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "courseId": { "type": "string" },
+        "missedDate": { "type": "string" },
+        "topicsCovered": { "type": "string" },
+        "reason": { "type": "string" },
+        "priority": { "type": "string" },
+        "status": { "type": "string" },
+        "classType": { "type": "string" }
+      },
+      "required": ["userId", "courseId", "missedDate", "topicsCovered"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "UserProfile",
+      "description": "Student user account profiles"
+    },
+    "/users/{userId}/courses/{courseId}": {
+      "schema": "Course",
+      "description": "Student courses and attendance"
+    },
+    "/users/{userId}/plans/{planId}": {
+      "schema": "MissedClassPlan",
+      "description": "Student missed class recovery plans"
+    }
+  }
+}
